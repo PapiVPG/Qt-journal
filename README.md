@@ -3,9 +3,9 @@ Investor's journal <br>
 
 My main project about tool to help with all data from stoks <br>
 
-Main assumptions:
--counting profit/loss
--calendar of events
--record own stocks
--prices of stocks
--other
+Main assumptions: <br>
+-counting profit/loss <br>
+-calendar of events <br>
+-record own stocks <br>
+-prices of stocks <br>
+-other <br>
