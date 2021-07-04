@@ -1,7 +1,7 @@
 # Qt-journal
 Investor's journal <br>
 
-My main project about tool to help with all data from stoks <br>
+My main project about tool to help with all data from stocks <br>
 
 Main assumptions: <br>
 -counting profit/loss <br>
